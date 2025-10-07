@@ -20,7 +20,7 @@ As a task of CODTECH internship, I built a chrome extension . I aim to develop a
 
 ![task4-1](https://github.com/user-attachments/assets/b9290b26-bdb1-4bb8-b75e-0e7c3c1428db)
 
-https://github.com/user-attachments/assets/5bb15da0-0825-4636-aeed-1a56f387websitesool
+https://github.com/user-attachments/assets/5bb15da0-0825-4636-aeed-1a56f3877b54
 
 Technology         | Usage / Purpose                      
 | **JavaScript (ES6)**      | Core logic for tracking time, messaging between background, content, and popup scripts.        |
